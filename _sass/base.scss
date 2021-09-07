@@ -7,7 +7,7 @@
 
 $body-background: $white !default;
 $body-foreground: $white !default;
-$header: $white !default;
+$header: $yellow !default;
 $blockquote-color: $white !default;
 $blockquote-border: $dove-grey !default;
 
@@ -51,7 +51,7 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
-  border-bottom: 1px dashed $white; //header;
+  border-bottom: 1px dashed $yellow; //header;
   padding: 20px;
   margin: 0 0 40px 0;
 }
