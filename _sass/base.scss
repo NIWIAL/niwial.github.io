@@ -7,7 +7,7 @@
 
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
-$header: $conifer !default;
+$header: $white !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 
@@ -51,7 +51,7 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed $white; //header;
   padding: 20px;
   margin: 0 0 40px 0;
 }
