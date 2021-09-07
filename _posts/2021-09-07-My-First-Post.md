@@ -2,6 +2,6 @@
 title: My first blog
 published: true
 ---
-#My motivation
+# My motivation
 
 So... we are here. 
