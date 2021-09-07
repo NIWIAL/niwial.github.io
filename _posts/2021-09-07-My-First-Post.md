@@ -1,7 +1,7 @@
-# My first blog
+---
+title: My first blog
+published: true
+---
+#My motivation
 
-```c
-#include <stdio.h>
-	int void():
-
-```
+So... we are here. 
