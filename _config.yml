@@ -4,6 +4,7 @@ author:
   name: "niwial"
   email: "someone@somewebsite.somedomain"
   url: "https://niwial.github.io"
+  baseurl: "https://niwial.github.io/blog"
 
 baseurl: /
 
@@ -28,5 +29,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "niwial"
+year : "2021"
